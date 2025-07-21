@@ -212,6 +212,44 @@ body {
   line-height: 1.5;
 }
 
+/* product featured section */
+.product-featured {
+  display: flex;
+  width: 1110px;
+  height: 270px;
+  margin: 0px auto;
+  gap: 96px;
+}
+
+.gear-img {
+  width: 404px;
+
+}
+
+.product-title {
+  font-size: 2.375rem;
+  font-weight: 700;
+  color: #0A0826;
+  margin-top: 0px;
+}
+
+.product-description {
+  font-size: 1rem;
+  color: #6C6C6C;
+  font-weight: 700;
+}
+
+.btn-product {
+  width: 155px;
+  height: 44px;
+  background-color: #E02C6D;
+  padding: 10px 24px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  border: none;
+}
+
 
 
 
